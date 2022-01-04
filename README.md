@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kira
+- 👋 Hi, I’m @uukira
 - 🌱 I’m currently learning Python and JavaScript
 
 <!---
